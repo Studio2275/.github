@@ -16,7 +16,7 @@ At Studio2275, we're just two passionate dudes on a mission to create the games 
 
 ## Who Are We?
 
-We are a small, independent game development studio founded by [Your Names], a dynamic duo of game enthusiasts with a shared vision. With a sprinkle of creativity, a dash of dedication, and a pinch of spare time, we're bringing our gaming fantasies to life.
+We are a small, independent game development studio founded by a dynamic duo of game enthusiasts with a shared vision. With a sprinkle of creativity, a dash of dedication, and a pinch of spare time, we're bringing our gaming fantasies to life.
 
 ## Our Vision
 
