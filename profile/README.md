@@ -33,4 +33,4 @@ Stay tuned for exciting game releases, prototypes, and in-progress work. We're b
 So, grab your virtual hardhat and join us on this adventure as we craft the games of our dreams, one line of code at a time. 🎮
 
 Thanks for stopping by, and happy gaming!
-
+![Studio](https://github.com/Studio2275/.github/assets/85192213/524ce2ff-e16b-47d9-93b7-184f350d3a39)
